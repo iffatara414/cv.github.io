@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bod{
+    background-color: f2edf7;
+    font-family: 'Dancing Script', cursive;
+    font-size: 15px;
+}
+.container{
+    background-color:#b6d7d8 ;
+    max-width: 1000px;
+    margin:  auto;
+    height: auto;
+}
+#img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    float: left;
+    padding: 20px;
+}
+#para{
+    padding:70px;
+    float: right;
+}
+#para p a:hover{
+     text-decoration: underline;
+     color: brown;
+}
+#href{
+    color: black;
+}
+.header-contact{
+    padding: 70px;
+    
+}
+.line{
+    border: 1px  black solid;
+}
+#info{
+    margin-top: 50px;
+    margin-left: 30px;
+    float: left;
+}
+#addressp{
+    
+     float: right;
+     margin-right: 500px;
+     margin-bottom: 30px;
+     margin-top: 30px;
+}
+.clear{
+    clear: both;
+}
+#work{
+    margin-top: 30px;
+    margin-left: 58px;
+    float: left;
+
+}
+#no{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 130px;
+    float: left;
+}
+.edu{
+    float: left;
+    margin-top: 50px;
+    margin-left:98px ;
+}
+.ssc{
+    float: left;
+    margin-left:133px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.hsc{
+    float: left;
+    margin-left: 36px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.cse{
+    float: right;
+    margin-right:400px ;
+    margin-bottom:30px ;
+}
+#awards{
+    float: left;
+    margin-top: 30px;
+    margin-left:112px ;
+    margin-bottom:30px ;
+}
+#scholarship{
+    float: right;
+    margin-right:475px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#footer{
+    background-color: black;
+    max-width: 990px;
+    height: 50px;
+    color: white;
+    margin: auto;
+    margin-top: 21px;
+    margin-bottom: 21px;
+}
+#footer ul li{
+    list-style-type: none;
+    margin-left: 20px;
+    float: left;
+    cursor: pointer;
+    padding-left: 190px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#footer ul li a{
+    color: white;
+    text-decoration: none;
+}
+#footer ul li a:hover{
+    text-decoration: underline;
+    color: chartreuse;
+}
+.bold{
+    font-weight: bolder;
+}
